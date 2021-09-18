@@ -1,0 +1,3 @@
+Aqui le comparto la tarea pueder ver que hay varios archivos, hay una imagen que puse como mi portada, tambien se encuentra un archivo PDF donde coloque mis clase el cual esta el de lavadora, ademas de que tome dos clase de mi proyecto el de la venta de hamacas donde podemos ver la clase cliente y la clase producto con sus respectivos elementos.
+
+Para los progrmas lo realicé como nos mostro en clase el cual cada variable tenie sus set y get ademas de tener los contructores, en donde se guarda la información que se recibe para luego motrarlo en consola. 
